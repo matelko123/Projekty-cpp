@@ -1,6 +1,6 @@
 # Liczby wyważone
 
-Link do zadania: [spoj.com](http://https://pl.spoj.com/problems/LICZBYW/ "spoj.com")
+Link do zadania: [spoj.com](http://https://pl.spoj.com/problems/LICZBYW/)
 
 ## Polecenie
 Liczbą wyważoną nazwiemy dodatnią liczbę naturalną posiadającą tyle samo dzielników parzystych co nieparzystych. Twoim zadaniem będzie wyznaczenie dla zadanej dodatniej liczby N najmniejszej liczby wyważonej większej od N.
